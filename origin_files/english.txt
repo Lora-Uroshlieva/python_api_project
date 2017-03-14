@@ -1,0 +1,15 @@
+PHP
+
+These PHP code samples show you how to list available language codes and names, detect the language of text input, and translate text using the Cloud Translation API.
+
+Documentation and PHP Code
+
+Python
+
+This Python code sample shows you how to list available languages, detect the language of text input, localize language codes to target languages, and translate text using the Cloud Translation API.
+
+Documentation and Python Code
+
+Ruby
+
+This Ruby code sample shows you how to translate text to a target language.
